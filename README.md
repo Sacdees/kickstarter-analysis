@@ -17,13 +17,15 @@ An indepth analysis of Kickstarter campaings for theater plays and musicals with
 ### Analysis of Outcomes Based on Launch Date
     As you can see in the graph below, May was by far the most sucessful month to lauch a theater campaign, and continued to have the highest number of outcomes throught nearly the end of summer September, where we will see a small uptick in October but a large continued drop for the rest of the year. With the uptick in October, there was also an increase in failed campaigns and would advise a word of caution to begin during this time period.  For the rest of the months the number of failed campaigns does not have any drastic spikes, with the biggest increast correlating with the significant increase in successful campaigns.  
 
-![Theater_Outcomes_vs_Launch]https://github.com/Sacdees/kickstarter-analysis/blob/main/Module_1_Challenge/resources/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](https://github.com/Sacdees/kickstarter-analysis/blob/main/Module_1_Challenge/resources/Theater_Outcomes_vs_Launch.png)
 ---
 
 ### Analysis of Outcomes Based on Goals
 
 
-![]()
+![Outcomes_vs_Goals](https://github.com/Sacdees/kickstarter-analysis/blob/main/Module_1_Challenge/resources/Outcomes_vs_Goals.png)
+---
+
 ### Challenges and Difficulties Encountered
 
 ## Results
